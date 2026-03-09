@@ -215,7 +215,7 @@ Average loss of RewardModel over preferences: 0.6618
 
 
 # Installation
-git clone https://github.com/yourusername/mini-rlhf-llm.git
+git clone (https://github.com/Iamyulx/rlhf-mini-implementation)
 
 cd mini-rlhf-llm
 
